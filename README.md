@@ -6,10 +6,15 @@ Here are some guidelines to future development of the site.
 ## Color Palette
 
 **Green:** #009c3b
+
 **Light Green:** #38ef7d
+
 **Blue:** #002776
+
 **Light Blue:** #11998e
+
 **Yellow:** #ffdf00
+
 **White:** #ffffff
 
 
