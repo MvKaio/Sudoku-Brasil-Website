@@ -1,4 +1,35 @@
+body{
+	background: #11998e;
+}
+
+h1{
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+}
+
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+	padding: 0px;
+	background: #38ef7d;
+}
+
 textarea{
+	border: none;
 	resize: none;
+	font-size: 28px;
 	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+	background: #38ef7d;
+}
+
+
+td{
+	height: 10px;
+	padding: 0px;
+}
+
+tr{
+	padding: 0px;
 }
